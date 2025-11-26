@@ -1,4 +1,3 @@
-readme.md
 
 <h1 align="center">👋 Olá, eu sou o Brayan!</h1>
 
